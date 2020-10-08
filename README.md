@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Natours)](https://github.com/BraisC/Natours)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Kinda-Monokai-Dark)](https://github.com/BraisC/Kinda-Monokai-Dark)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=eslint-config)](https://github.com/BraisC/eslint-config)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisC&layout=compact)
+
