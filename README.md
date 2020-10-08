@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=react-tv)](https://github.com/BraisC/react-tv)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=tvdb-react)](https://github.com/BraisC/tvdb-react)
