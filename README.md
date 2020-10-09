@@ -5,7 +5,7 @@
 
 ## Hi! 👋
 
-I am Brais, a web developer from Spain specialized in Javascript, here you can see some of my work and stats, enjoy :)
+I am Brais, a web developer from Spain, here you can see some of my work and stats, enjoy :)
 
 ### Some of my repos
 
