@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="150px" src="https://github.com/BraisC/BraisC/blob/main/icons/myweb.png" align="center" alt="My Logo" />
+ <h2 align="center">Brais Cao</h2>
+</p>
+
 ## Hi! 👋
 
 I am Brais, a web developer from Spain specialized in Javascript, here you can see some of my work and stats, enjoy :)
@@ -21,4 +26,8 @@ I am Brais, a web developer from Spain specialized in Javascript, here you can s
 
 ### Contact me
 
-
+<p align="center">
+<a href = "mailto:braiscao.dev@gmail.com"><img src='https://github.com/BraisC/BraisC/blob/main/icons/gmail.png?raw=true' alt='gmail' height='40'></a>
+<a href = "https://www.linkedin.com/in/brais-cao-gonzalez/?locale=en_US" /><img src='https://github.com/BraisC/BraisC/blob/main/icons/linkedin.png?raw=true' alt='linkedin' height='40'></a>
+<a href = "https://www.instagram.com/braiscao.dev/"/><img src='https://github.com/BraisC/BraisC/blob/main/icons/instagram.png?raw=true' alt='instagram' height='40'></a>
+</p>
