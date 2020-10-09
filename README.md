@@ -18,7 +18,7 @@ I am Brais, a web developer from Spain specialized in Javascript, here you can s
 
 ### What languages do I use?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisC&layout=compact&langs_count=6&exclude_repo=Trillo,Natours, Javascript30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisC&layout=compact&langs_count=6&exclude_repo=Trillo,Natours,Javascript30)
 
 ### What have I done?
 
