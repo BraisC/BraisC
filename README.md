@@ -1,5 +1,5 @@
 <p align="center">
- <a href = "https://www.braiscao.dev"/><img src='https://github.com/BraisC/BraisC/blob/main/icons/myweb.png?raw=true' alt='my-site' width="100px"></a>&nbsp;&nbsp;
+ <a href = "https://www.braiscao.dev"/><img src='https://github.com/BraisC/BraisC/blob/main/icons/myweb.png?raw=true' alt='my-site' width="80px"></a>&nbsp;&nbsp;
  <h2 align="center">Brais Cao</h2>
 </p>
 
