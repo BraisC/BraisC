@@ -24,6 +24,9 @@ I am Brais, a web developer from Spain, here you can see some of my work and sta
 
 ![Brais Github Stars](https://github-readme-stats.vercel.app/api?username=BraisC&count_private=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BraisC)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Contact me
 
 <p align="center">
