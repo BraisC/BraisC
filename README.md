@@ -9,20 +9,20 @@ I am Brais, a web developer from Spain, here you can see some of my work and sta
 
 ### Some of my repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=tvdb-react&theme=dracula)](https://github.com/BraisC/tvdb-react)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=react-text-typist&theme=dracula)](https://github.com/BraisC/react-text-typist)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=braiscao.dev&theme=dracula)](https://github.com/BraisC/braiscao.dev)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Marvel-database&theme=dracula)](https://github.com/BraisC/Marvel-database)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Kinda-Monokai-Dark&theme=dracula)](https://github.com/BraisC/Kinda-Monokai-Dark)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=eslint-config&theme=dracula)](https://github.com/BraisC/eslint-config)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=tvdb-react&theme=tokyonight)](https://github.com/BraisC/tvdb-react)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=react-text-typist&theme=tokyonight)](https://github.com/BraisC/react-text-typist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=braiscao.dev&theme=tokyonight)](https://github.com/BraisC/braiscao.dev)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Marvel-database&theme=tokyonight)](https://github.com/BraisC/Marvel-database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=Kinda-Monokai-Dark&theme=tokyonight)](https://github.com/BraisC/Kinda-Monokai-Dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=braisc&repo=eslint-config&theme=tokyonight)](https://github.com/BraisC/eslint-config)
 
 ### What languages do I use?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisC&layout=compact&langs_count=6&exclude_repo=Trillo,Natours,Javascript30&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisC&layout=compact&langs_count=6&exclude_repo=Trillo,Natours,Javascript30&theme=tokyonight)
 
 ### What have I done?
 
-![Brais Github Stars](https://github-readme-stats.vercel.app/api?username=BraisC&count_private=true&show_icons=true&theme=dracula)
+![Brais Github Stars](https://github-readme-stats.vercel.app/api?username=BraisC&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ### Contact me
